@@ -1,0 +1,11 @@
+{
+  "name": "node-smart-contract-demo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^11.10.4"
+  }
+}
